@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP4.Views.vListes"  
+             Title="Contacts"
+             >
+    <ContentPage.ToolbarItems >
+        <ToolbarItem Text="Ajouter"  Clicked="Add_Clicked" IconImageSource="{FontImage Glyph='+', Color=red, Size=22}" />
+        <ToolbarItem Text="Supprimer" Clicked="Delete_Clicked" IconImageSource="{FontImage Glyph='-', Color=red, Size=22}" />
+        <ToolbarItem Text="Modifier" Clicked="OnEditClicked" IconImageSource="{FontImage Glyph='...', Color=red, Size=22}" />
+    </ContentPage.ToolbarItems>
+    <VerticalStackLayout Spacing="20" Margin="10">
+        <Label
+            x:Name="lbContacts"
+            FontSize="Large"
+            TextColor="{StaticResource Primary}"
+            HorizontalOptions="Center" />
+
+
+        <CollectionView x:Name="cvListeContact" SelectionMode="Single" >
+            <CollectionView.ItemTemplate >
+                <DataTemplate>
+                    <VerticalStackLayout>
+                        
+                        <HorizontalStackLayout Spacing="20" Margin="10" >
+                            <Label
+                                
+                                FontSize="Large" 
+                                TextColor="{StaticResource Secondary}"
+                                Text="{Binding Name}">
+                                    
+                            </Label>
+
+                            <Label
+                                FontSize="Large" 
+                                TextColor="{StaticResource Primary}"
+                                Text="{Binding Email}">
+                                
+                            </Label>
+
+                            <!--<Button 
+                                Text="Modifier le contact sélectionné" 
+                                Clicked="OnEditClicked" 
+                                HorizontalOptions="Center" />-->
+
+                        </HorizontalStackLayout>    
+                    </VerticalStackLayout>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+            
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

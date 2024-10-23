@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MZOURI\\source\\repos\\TP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\views\\vlistes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\views\\vlistes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\views\\vlistes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\views\\vlistes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\views\\contactupdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\views\\contactupdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\views\\vcontact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\views\\vcontact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\views\\contactupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\views\\contactupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\models\\ccontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\models\\ccontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\views\\vcontact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\views\\vcontact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|c:\\users\\mzouri\\source\\repos\\tp4\\tp4\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A86FC13-9823-4E7A-92DC-5BCD07E1F7F5}|TP4\\TP4.csproj|solutionrelative:tp4\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vListes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vListes.xaml.cs",
+              "RelativeDocumentMoniker": "TP4\\Views\\vListes.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vListes.xaml.cs",
+              "RelativeToolTip": "TP4\\Views\\vListes.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA7wE0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:04:32.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vListes.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vListes.xaml",
+              "RelativeDocumentMoniker": "TP4\\Views\\vListes.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vListes.xaml",
+              "RelativeToolTip": "TP4\\Views\\vListes.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:51:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TP4\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\AppShell.xaml.cs",
+              "RelativeToolTip": "TP4\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:12:27.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vContact.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vContact.xaml.cs",
+              "RelativeDocumentMoniker": "TP4\\Views\\vContact.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vContact.xaml.cs",
+              "RelativeToolTip": "TP4\\Views\\vContact.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:57:44.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactUpdate.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\ContactUpdate.xaml.cs",
+              "RelativeDocumentMoniker": "TP4\\Views\\ContactUpdate.xaml.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\ContactUpdate.xaml.cs",
+              "RelativeToolTip": "TP4\\Views\\ContactUpdate.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:03:16.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TP4\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\AppShell.xaml",
+              "RelativeToolTip": "TP4\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:45:40.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactUpdate.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\ContactUpdate.xaml",
+              "RelativeDocumentMoniker": "TP4\\Views\\ContactUpdate.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\ContactUpdate.xaml",
+              "RelativeToolTip": "TP4\\Views\\ContactUpdate.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T12:03:18.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cContact.cs",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Models\\cContact.cs",
+              "RelativeDocumentMoniker": "TP4\\Models\\cContact.cs",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Models\\cContact.cs",
+              "RelativeToolTip": "TP4\\Models\\cContact.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:43:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vContact.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vContact.xaml",
+              "RelativeDocumentMoniker": "TP4\\Views\\vContact.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Views\\vContact.xaml",
+              "RelativeToolTip": "TP4\\Views\\vContact.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:50:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "TP4\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "TP4\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:48:41.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "TP4\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\MZOURI\\source\\repos\\TP4\\TP4\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "TP4\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:48:38.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

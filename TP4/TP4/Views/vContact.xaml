@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP4.Views.vContact"
+             Title="vContact">
+    <VerticalStackLayout>
+        <Label 
+            Text="Ajouter un contact" 
+            FontSize="Large" 
+            HorizontalOptions="Center" />
+
+        <Label 
+            Text="Nom" 
+            FontSize="Medium" />
+        <Editor 
+            x:Name="editorNom"
+            Placeholder="Entrez le nom" />
+
+        <Label 
+            Text="Mail" 
+            FontSize="Medium" />
+        <Editor 
+            x:Name="editorMail"
+            Placeholder="Entrez l'adresse email" />
+
+        <Button 
+            Text="Enregistrer" 
+            Clicked="OnSaveClicked" 
+            HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>

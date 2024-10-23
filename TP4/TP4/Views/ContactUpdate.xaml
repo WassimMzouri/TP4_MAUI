@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP4.Views.ContactUpdate"
+             Title="ContactUpdate">
+    <VerticalStackLayout Spacing="20" Padding="10">
+        <Label Text="Modifier le contact" FontSize="Large" HorizontalOptions="Center" />
+
+ 
+        <Label Text="Nom" FontSize="Medium" />
+        <Editor x:Name="editorNom" />
+
+        <Label Text="Mail" FontSize="Medium" />
+        <Editor x:Name="editorMail"  />
+
+        <Button Text="Enregistrer" Clicked="UpdateContact" HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>
